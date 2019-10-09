@@ -1,7 +1,7 @@
 # drop_you_like_a_block
 A script for basic play of the game "BlockDrop". The strategy for this script is to watch only blocks in the bottom-row to avoid committing errors on falling (moving) blocks.
 
-The game can be found at: https://arcade-7e162.web.app/blockdrop
+The game can be found at: https://arcade-7e162.web.app/blockdrop.
 
 
 ## Requirements/Installation
