@@ -13,7 +13,7 @@ To install, clone this repository to a desired location and either add the chrom
 ## Using the Script
 To run the script, navigate to the script directory in a Windows CLI and run __drop_you_like_a_block.py__. For example, the command may appear as the following:
 
-__py drop_you_like_a_block.py__
+> py drop_you_like_a_block.py
 
 
 ## Results
